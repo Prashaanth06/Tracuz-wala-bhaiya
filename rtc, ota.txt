@@ -1,0 +1,29 @@
+https://randomnerdtutorials.com/esp32-ntp-client-date-time-arduino-ide/
+
+https://blog.adafruit.com/2018/02/20/deep-sleep-tutorial-for-esp32-using-the-rtc-ulp-co-processor-and-two-lines-of-code/
+
+https://lastminuteengineers.com/esp32-ota-updates-arduino-ide/   =basic ota
+
+https://lastminuteengineers.com/esp32-ota-web-updater-arduino-ide/= webserver ota
+
+https://stackoverflow.com/questions/53367523/arduino-esp32-do-ota-via-ble= BLE OTA
+
+https://randomnerdtutorials.com/esp32-deep-sleep-arduino-ide-wake-up-sources/  =deep sleep
+
+https://randomnerdtutorials.com/esp32-ntp-client-date-time-arduino-ide/  =rtc
+http://www.esp32learning.com/code/esp32-and-ds3231-rtc-example.php
+
+https://www.epochconverter.com/
+
+https://www.youtube.com/watch?v=azT2rosEo0k  = bluetooth range 
+
+https://www.esp32.com/viewtopic.php?t=8947
+https://github.com/espressif/esp-idf/blob/master/components/esp32/sleep_modes.c
+https://github.com/espressif/esp-idf/blob/master/components/esp32/esp_clk_internal.h
+https://github.com/espressif/esp-idf/blob/master/components/esp32/clk.c
+
+
+current:
+https://www.electronicdesign.com/test-measurement/measuring-cell-capacity
+https://www.instructables.com/id/DIY-Arduino-Battery-Capacity-Tester-V10-/
+https://www.google.com/search?q=arduino+ide+code+for+measuring+battery+capacity&rlz=1C1CHBD_enIN855IN855&oq=arduino+ide+code+for+measuring+battery+capacity&aqs=chrome..69i57.21926j1j7&sourceid=chrome&ie=UTF-8
